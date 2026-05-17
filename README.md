@@ -14,11 +14,14 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="150" align="left" style="margin-right: 15px;">
+<!--<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="150" align="left" style="margin-right: 15px;">-->
+
+<img src="./imagens/download1-ezgif.com-gif-maker (1).gif" width="250" align="left" style="margin-right: 15px;">
 
 <div align="justify">
   <h3>Oi, Pessoal!. Me chamo Ericha.</h3>
   Sou estudante de Análise e Desenvolvimento de Sistemas, estou no segundo período da faculdade e é por aqui que posto meus projetos individuais e em equipe. Fique à vontade para explorar minhas contribuições.
+  
   <br><br>
   
   <!--<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
