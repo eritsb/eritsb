@@ -1,8 +1,6 @@
-#  <img src="https://i.pinimg.com/originals/64/f2/4a/64f24a2aec624ffb36ece56bda58d9ce.gif" alt="gif-estudante" width="100"/> Olá, eu sou a Ericha Barbosa!
-  
-```python
-print("Hello, World!. Get to know me a little better.")
-```
+<p align="center">
+  <img src="./imagens/github.png" width="1000">
+</p>
 
 **Contacts:**
 
