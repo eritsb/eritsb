@@ -20,7 +20,7 @@
 
 <div align="justify">
   <h3>Oi, Pessoal!. Me chamo Ericha.</h3>
-  Sou estudante de Análise e Desenvolvimento de Sistemas, estou no segundo período da faculdade e é por aqui que posto meus projetos individuais e em equipe. Fique à vontade para explorar minhas contribuições.
+  Sou estudante de Análise e Desenvolvimento de Sistemas, estou no terceiro período da faculdade e é por aqui que posto meus projetos individuais e em equipe. Fique à vontade para explorar minhas contribuições.
   
   <br><br>
   
