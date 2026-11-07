@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
-  <rect x="1" y="1" width="898" height="678" rx="12" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="728" viewBox="0 0 900 728" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+  <rect x="1" y="1" width="898" height="726" rx="12" fill="#0d1117" stroke="#30363d"/>
 
   <circle cx="26" cy="24" r="6" fill="#ff5f56"/>
   <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
@@ -39,12 +39,18 @@
   <text x="26" y="564" fill="#d2a8ff">portfolio</text>
   <text x="120" y="564" fill="#8b949e">::</text>
   <text x="150" y="564" fill="#79c0ff">https://portfolio-ericha.vercel.app/</text>
-  <text x="26" y="588" fill="#d2a8ff">status</text>
+  <text x="26" y="588" fill="#d2a8ff">linkedin</text>
   <text x="120" y="588" fill="#8b949e">::</text>
-  <text x="150" y="588" fill="#7ee787">disponível para colaborar</text>
+  <text x="150" y="588" fill="#79c0ff">https://www.linkedin.com/in/ericha-barbosa-092473292/</text>
+  <text x="26" y="612" fill="#d2a8ff">email</text>
+  <text x="120" y="612" fill="#8b949e">::</text>
+  <text x="150" y="612" fill="#79c0ff">erichataina@gmail.com</text>
+  <text x="26" y="636" fill="#d2a8ff">status</text>
+  <text x="120" y="636" fill="#8b949e">::</text>
+  <text x="150" y="636" fill="#7ee787">disponível para colaborar</text>
 
-  <text x="26" y="636"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> _</tspan></text>
-  <rect x="180" y="623" width="9" height="16" fill="#3fb950">
+  <text x="26" y="684"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> _</tspan></text>
+  <rect x="180" y="671" width="9" height="16" fill="#3fb950">
     <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
