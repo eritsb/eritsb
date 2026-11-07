@@ -12,7 +12,6 @@
 
   <text x="26" y="156"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> cat ~/about.txt</tspan></text>
   <text x="26" y="180" fill="#8b949e" font-style="italic"># Desenvolvedor Full Stack | Linux enthusiast | Open Source</text>
-  <text x="26" y="204" fill="#8b949e" font-style="italic"># Construindo coisas úteis, um commit de cada vez.</text>
 
   <text x="26" y="252"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> ls -la ~/skills/</tspan></text>
   <text x="26" y="276" fill="#79c0ff">languages/</text>
@@ -20,18 +19,18 @@
   <text x="196" y="276" fill="#c9d1d9">Python, JavaScript, TypeScript, Go, Bash</text>
   <text x="26" y="300" fill="#79c0ff">frontend/</text>
   <text x="168" y="300" fill="#8b949e">-&gt;</text>
-  <text x="196" y="300" fill="#c9d1d9">React, Next.js, Tailwind CSS</text>
+  <text x="196" y="300" fill="#c9d1d9">React, Next.js, CSS, JavaScript</text>
   <text x="26" y="324" fill="#79c0ff">backend/</text>
   <text x="168" y="324" fill="#8b949e">-&gt;</text>
-  <text x="196" y="324" fill="#c9d1d9">Node.js, Django, FastAPI, PostgreSQL</text>
+  <text x="196" y="324" fill="#c9d1d9">Node.js, Django, PostgreSQL</text>
   <text x="26" y="348" fill="#79c0ff">devops/</text>
   <text x="168" y="348" fill="#8b949e">-&gt;</text>
   <text x="196" y="348" fill="#c9d1d9">Docker, Git, Linux, CI/CD</text>
 
   <text x="26" y="396"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> cat ~/projects/featured.txt</tspan></text>
-  <text x="26" y="420"><tspan fill="#ffa657">[1]</tspan><tspan fill="#7ee787"> projeto-alpha</tspan><tspan fill="#8b949e">  -&gt;  </tspan><tspan fill="#c9d1d9">CLI em Go para automação de tarefas</tspan></text>
-  <text x="26" y="444"><tspan fill="#ffa657">[2]</tspan><tspan fill="#7ee787"> projeto-beta</tspan><tspan fill="#8b949e">   -&gt;  </tspan><tspan fill="#c9d1d9">Dashboard web com React + FastAPI</tspan></text>
-  <text x="26" y="468"><tspan fill="#ffa657">[3]</tspan><tspan fill="#7ee787"> dotfiles</tspan><tspan fill="#8b949e">       -&gt;  </tspan><tspan fill="#c9d1d9">Configurações do meu ambiente Linux</tspan></text>
+  <text x="26" y="420"><tspan fill="#ffa657">[1]</tspan><tspan fill="#7ee787"> BB EletroRota</tspan><tspan fill="#8b949e">  -&gt;  </tspan><tspan fill="#c9d1d9">Uma solução que otimiza a recarga de veículos elétricos.</tspan></text>
+  <text x="26" y="444"><tspan fill="#ffa657">[2]</tspan><tspan fill="#7ee787"> CallMou</tspan><tspan fill="#8b949e">   -&gt;  </tspan><tspan fill="#c9d1d9">Acompanhamento da saúde mental das professoras da rede publica da educação em Recife.</tspan></text>
+  <text x="26" y="468"><tspan fill="#ffa657">[3]</tspan><tspan fill="#7ee787"> OPI</tspan><tspan fill="#8b949e">       -&gt;  </tspan><tspan fill="#c9d1d9">Centralizar, organizar e facilitar a gestão dos Projetos Integradores.</tspan></text>
 
   <text x="26" y="516"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> ./contact.sh</tspan></text>
   <text x="26" y="540" fill="#d2a8ff">github</text>
