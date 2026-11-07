@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./terminal.svg" alt="Terminal do eritsb" width="900" />
+<img src="./terminal.svg?v=2" alt="Terminal do eritsb" width="900" />
 
 <br>
 
