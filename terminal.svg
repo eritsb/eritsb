@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+  <rect x="1" y="1" width="898" height="678" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <circle cx="26" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="24" r="6" fill="#27c93f"/>
+  <text x="90" y="29" fill="#8b949e">eritsb@github: ~</text>
+  <line x1="1" y1="48" x2="899" y2="48" stroke="#21262d"/>
+
+  <text x="26" y="84"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
+  <text x="26" y="108" fill="#c9d1d9">eritsb</text>
+
+  <text x="26" y="156"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> cat ~/about.txt</tspan></text>
+  <text x="26" y="180" fill="#8b949e" font-style="italic"># Desenvolvedor Full Stack | Linux enthusiast | Open Source</text>
+  <text x="26" y="204" fill="#8b949e" font-style="italic"># Construindo coisas úteis, um commit de cada vez.</text>
+
+  <text x="26" y="252"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> ls -la ~/skills/</tspan></text>
+  <text x="26" y="276" fill="#79c0ff">languages/</text>
+  <text x="168" y="276" fill="#8b949e">-&gt;</text>
+  <text x="196" y="276" fill="#c9d1d9">Python, JavaScript, TypeScript, Go, Bash</text>
+  <text x="26" y="300" fill="#79c0ff">frontend/</text>
+  <text x="168" y="300" fill="#8b949e">-&gt;</text>
+  <text x="196" y="300" fill="#c9d1d9">React, Next.js, Tailwind CSS</text>
+  <text x="26" y="324" fill="#79c0ff">backend/</text>
+  <text x="168" y="324" fill="#8b949e">-&gt;</text>
+  <text x="196" y="324" fill="#c9d1d9">Node.js, Django, FastAPI, PostgreSQL</text>
+  <text x="26" y="348" fill="#79c0ff">devops/</text>
+  <text x="168" y="348" fill="#8b949e">-&gt;</text>
+  <text x="196" y="348" fill="#c9d1d9">Docker, Git, Linux, CI/CD</text>
+
+  <text x="26" y="396"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> cat ~/projects/featured.txt</tspan></text>
+  <text x="26" y="420"><tspan fill="#ffa657">[1]</tspan><tspan fill="#7ee787"> projeto-alpha</tspan><tspan fill="#8b949e">  -&gt;  </tspan><tspan fill="#c9d1d9">CLI em Go para automação de tarefas</tspan></text>
+  <text x="26" y="444"><tspan fill="#ffa657">[2]</tspan><tspan fill="#7ee787"> projeto-beta</tspan><tspan fill="#8b949e">   -&gt;  </tspan><tspan fill="#c9d1d9">Dashboard web com React + FastAPI</tspan></text>
+  <text x="26" y="468"><tspan fill="#ffa657">[3]</tspan><tspan fill="#7ee787"> dotfiles</tspan><tspan fill="#8b949e">       -&gt;  </tspan><tspan fill="#c9d1d9">Configurações do meu ambiente Linux</tspan></text>
+
+  <text x="26" y="516"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> ./contact.sh</tspan></text>
+  <text x="26" y="540" fill="#d2a8ff">github</text>
+  <text x="120" y="540" fill="#8b949e">::</text>
+  <text x="150" y="540" fill="#79c0ff">https://github.com/eritsb</text>
+  <text x="26" y="564" fill="#d2a8ff">repos</text>
+  <text x="120" y="564" fill="#8b949e">::</text>
+  <text x="150" y="564" fill="#79c0ff">https://github.com/eritsb?tab=repositories</text>
+  <text x="26" y="588" fill="#d2a8ff">status</text>
+  <text x="120" y="588" fill="#8b949e">::</text>
+  <text x="150" y="588" fill="#7ee787">disponível para colaborar</text>
+
+  <text x="26" y="636"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> _</tspan></text>
+  <rect x="180" y="623" width="9" height="16" fill="#3fb950">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
