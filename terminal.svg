@@ -8,7 +8,7 @@
   <line x1="1" y1="48" x2="899" y2="48" stroke="#21262d"/>
 
   <text x="26" y="84"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
-  <text x="26" y="108" fill="#c9d1d9">eritsb</text>
+  <text x="26" y="108" fill="#c9d1d9">Ericha Barbosa</text>
 
   <text x="26" y="156"><tspan fill="#3fb950">eritsb@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#bc8cff">$</tspan><tspan fill="#e6edf3"> cat ~/about.txt</tspan></text>
   <text x="26" y="180" fill="#8b949e" font-style="italic"># Desenvolvedor Full Stack | Linux enthusiast | Open Source</text>
